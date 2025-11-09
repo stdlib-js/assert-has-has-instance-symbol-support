@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8124fc0`](https://github.com/stdlib-js/stdlib/commit/8124fc07ea87df5b78dbfd7c7206c84e6fdd9fe0) - **docs:** update heading _(by Athan Reines)_
 -   [`168c234`](https://github.com/stdlib-js/stdlib/commit/168c23482effd51fbc51be8c25036e6b9ad66f47) - **feat:** add `assert/has-has-instance-symbol-support` _(by Athan Reines)_
 
 </details>
