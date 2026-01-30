@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-has-instance-symbol-support",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Detect native Symbol.hasInstance support.",
   "license": "Apache-2.0",
   "author": {
