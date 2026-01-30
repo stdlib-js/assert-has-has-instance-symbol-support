@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import hasHasInstanceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-has-instance-symbol-support@deno/mod.js';
+import hasHasInstanceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-has-instance-symbol-support@v0.1.0-deno/mod.js';
 ```
 
 #### hasHasInstanceSymbolSupport()
@@ -71,7 +71,7 @@ var bool = hasHasInstanceSymbolSupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasHasInstanceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-has-instance-symbol-support@deno/mod.js';
+import hasHasInstanceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-has-instance-symbol-support@v0.1.0-deno/mod.js';
 
 var bool = hasHasInstanceSymbolSupport();
 if ( bool ) {
