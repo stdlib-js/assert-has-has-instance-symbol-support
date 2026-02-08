@@ -44,6 +44,11 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
+import hasHasInstanceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-has-instance-symbol-support@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-has-has-instance-symbol-support/tags). For example,
+
+```javascript
 import hasHasInstanceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-has-instance-symbol-support@v0.1.1-esm/index.mjs';
 ```
 
@@ -76,7 +81,7 @@ var bool = hasHasInstanceSymbolSupport();
 <body>
 <script type="module">
 
-import hasHasInstanceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-has-instance-symbol-support@v0.1.1-esm/index.mjs';
+import hasHasInstanceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-has-instance-symbol-support@esm/index.mjs';
 
 var bool = hasHasInstanceSymbolSupport();
 if ( bool ) {
